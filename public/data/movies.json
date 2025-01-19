@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Inception", "genre": "Sci-Fi", "director": "Christopher Nolan" },
+  { "id": 2, "title": "The Godfather", "genre": "Crime", "director": "Francis Ford Coppola" },
+  { "id": 3, "title": "The Dark Knight", "genre": "Action", "director": "Christopher Nolan" },
+  { "id": 4, "title": "Pulp Fiction", "genre": "Crime", "director": "Quentin Tarantino" }
+]
